@@ -51,7 +51,7 @@ I developed some Machine learning applications, you can see in Projects section.
 I love solving problems especially in Rust.
 I participate in competitive programming contests, AtCoder and Codeforces.
 My handle name is hatoo. I'm a blue coder at Atcoder and Codeforces, have good skills about algorithms.
-I prefer "marathon style" contests.
+I prefer "marathon" style contests.
 I achieved good results in some marathon contests.
 
 #### Competitive Programming Ratings
@@ -120,7 +120,6 @@ Develop and maintain Drupal sites.
   - 18th place
 - Kayumi(家弓) award in Unreal Engine 4 petit contest 1
   - http://historia.co.jp/archives/649/
-- - -
 - SoundHound Inc. Programming Contest 2018 -Masters Tournament-
   - https://beta.atcoder.jp/contests/soundhound2018-summer-qual
   - 216th place
