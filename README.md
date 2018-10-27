@@ -51,6 +51,7 @@ I developed some Machine learning applications, you can see in Projects section.
 I love solving problems especially in Rust.
 I participate in competitive programming contests, AtCoder and Codeforces.
 My handle name is hatoo. I'm a blue coder at Atcoder and Codeforces, have good skills about algorithms.
+I solved the most number of problems with Rust in AtCoder.
 I prefer "marathon" style contests.
 I achieved good results in some marathon contests.
 
@@ -87,7 +88,7 @@ I achieved good results in some marathon contests.
   - Learn and generate text by Differentiable Neural Computers.
 - RNN-hearthstone-card-generator-web
   - http://hatoo.github.io/RNN-hearthstone-card-generator-web/
-  - Generate a Hearthstone card text by LSTM.
+  - Generate a [Hearthstone](https://playhearthstone.com) card text by LSTM.
 - Blue Bomber
   - https://www.youtube.com/watch?v=elRqX9dSnaI
   - A game for Unreal Engine 4 petit contest 1 by [historia](http://historia.co.jp/)
