@@ -57,7 +57,10 @@
 - [Accepted](https://github.com/hatoo/Accepted)
   - A modal text editor for competitive rust programmer written with Rust.
   - Primary target is in competitive Rust programmers.
-  - I participate all programming contests with this editor.
+  - Autoformat with Rustfmt
+  - Completion with RLS / Racer
+  - Mouse support
+  - I participate every programming contests with this editor.
     ![Accepted screenshot](demo.png)
 - [cargo-snippet](https://github.com/hatoo/cargo-snippet)
   - Snippet manager for competitive rust programmer.
@@ -72,7 +75,37 @@
   - Generate a Hearthstone card text by LSTM.
 - Blue Bomber
   - https://www.youtube.com/watch?v=elRqX9dSnaI
-  - A game for Unreal Engine 4 petit contest by [historia](http://historia.co.jp/)
+  - A game for Unreal Engine 4 petit contest 1 by [historia](http://historia.co.jp/)
   - Got Kayumi(家弓) award.
     - http://historia.co.jp/archives/649/
   - Built with Unreal Engine 4.
+
+## Work History
+
+### Digital Circus
+
+May. 2016 ~ 
+
+Develop and maintain Drupal sites.
+
+## Awards
+
+- Codeforces Marathon Round 2
+  - http://codeforces.com/contest/1014/standings
+  - 6th place
+  - Beam search and heuristic
+- Hokkaido Univ.& Hitachi 1st New-concept Computing Contest 2017
+  - https://beta.atcoder.jp/contests/hokudai-hitachi2017-1
+  - 15th place
+- RCO Nihon-bashi half marathon 2 Preliminary
+  - https://beta.atcoder.jp/contests/rco-contest-2018-qual
+  - 19th place
+- Future Meets You Contest(open)
+  - https://beta.atcoder.jp/contests/future-meets-you-contest-2018-open
+  - 18th place
+- Kayumi(家弓) award in Unreal Engine 4 petit contest 1
+  - http://historia.co.jp/archives/649/
+- - -
+- SoundHound Inc. Programming Contest 2018 -Masters Tournament-
+  - https://beta.atcoder.jp/contests/soundhound2018-summer-qual
+  - 216th place
