@@ -36,7 +36,7 @@
     - Machine Learning
 - PHP
   - Usage:
-    - [Drupal](https://www.drupal.org/)
+    - Develop [Drupal](https://www.drupal.org/) sites
 - C++
 
 ### Knowledge about Machine learning
@@ -45,6 +45,14 @@ My research was applying Deep Learning on medical images.
 I have completed Machine Learning course in [coursera](https://www.coursera.org/learn/machine-learning).
 I have good knowledge about basic Machine learning mechanics.
 I developed some Machine learning applications, you can see in Projects section.
+
+### Competitive Programming
+
+I love solving problems especially in Rust.
+I participate in competitive programming contests, AtCoder and Codeforces.
+My handle name is hatoo. I'm a blue coder at Atcoder and Codeforces, have good skills about algorithms.
+I prefer "marathon style" contests.
+I achieved good results in some marathon contests.
 
 #### Competitive Programming Ratings
 
@@ -107,7 +115,7 @@ Develop and maintain Drupal sites.
 - RCO Nihon-bashi half marathon 2 Preliminary
   - https://beta.atcoder.jp/contests/rco-contest-2018-qual
   - 19th place
-- Future Meets You Contest(open)
+- Future Meets You Contest (open)
   - https://beta.atcoder.jp/contests/future-meets-you-contest-2018-open
   - 18th place
 - Kayumi(家弓) award in Unreal Engine 4 petit contest 1
