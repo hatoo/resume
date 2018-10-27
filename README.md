@@ -53,7 +53,7 @@ I developed some Machine learning applications, you can see in Projects section.
   - Blue coder
   - [https://beta.atcoder.jp/users/hatoo](https://beta.atcoder.jp/users/hatoo)
   - Solved the most number of problems with Rust in AtCoder
-    - [https://kenkoooo.com/atcoder/?user=hatoo&kind=user](https://kenkoooo.com/atcoder/?user=hatoo&kind=user)
+    - See "Languages" section in [https://kenkoooo.com/atcoder/?user=hatoo&kind=user](https://kenkoooo.com/atcoder/?user=hatoo&kind=user)
 - Codeforces
   - Max Rating: 1872
   - Blue coder
@@ -89,7 +89,7 @@ I developed some Machine learning applications, you can see in Projects section.
 
 ## Work History
 
-### Digital Circus
+### [Digital Circus](https://www.dgcircus.com/)
 
 May. 2016 ~ 
 
