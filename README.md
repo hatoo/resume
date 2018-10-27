@@ -39,6 +39,13 @@
     - [Drupal](https://www.drupal.org/)
 - C++
 
+### Knowledge about Machine learning
+
+My research was applying Deep Learning on medical images.
+I have completed Machine Learning course in [coursera](https://www.coursera.org/learn/machine-learning).
+I have good knowledge about basic Machine learning mechanics.
+I developed some Machine learning applications, you can see in Projects section.
+
 #### Competitive Programming Ratings
 
 - AtCoder
