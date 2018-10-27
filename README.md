@@ -124,4 +124,4 @@ Develop and maintain Drupal sites.
   - http://historia.co.jp/archives/649/
 - SoundHound Inc. Programming Contest 2018 -Masters Tournament-
   - https://beta.atcoder.jp/contests/soundhound2018-summer-qual
-  - 216th place
+  - 166th place
