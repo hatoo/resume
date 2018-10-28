@@ -27,16 +27,13 @@
 
 - Rust
   - My favorite
-  - Usage:
-    - Competitive Programming
-    - tools
-    - Develop text editor
+  - Competitive Programming
+  - tools
+  - Develop text editor
 - Python
-  - Usage:
-    - Machine Learning
+  - Machine Learning
 - PHP
-  - Usage:
-    - Develop [Drupal](https://www.drupal.org/) sites
+  - Develop [Drupal](https://www.drupal.org/) sites
 - C++
 
 ### Knowledge about Machine learning
@@ -86,6 +83,7 @@ I achieved good results in some marathon contests, you can see in Awards section
   - Managed by cargo-snippet
 - [chainer-text-generator](https://github.com/hatoo/chainer-text-generator)
   - Learn and generate text by Differentiable Neural Computers.
+  - Written in Python
 - RNN-hearthstone-card-generator-web
   - http://hatoo.github.io/RNN-hearthstone-card-generator-web/
   - Generate a [Hearthstone](https://playhearthstone.com) card text by LSTM.
