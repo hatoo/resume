@@ -30,11 +30,11 @@
   - Competitive Programming
   - tools
   - Develop text editor
+- C++
 - Python
   - Machine Learning
 - PHP
   - Develop [Drupal](https://www.drupal.org/) sites
-- C++
 
 ### Knowledge about Machine learning
 
@@ -45,11 +45,12 @@ I developed some Machine learning applications, you can see in Projects section.
 
 ### Competitive Programming
 
-I love solving problems especially in Rust.
+I love solving problems.
 I participate in competitive programming contests, AtCoder and Codeforces.
+I usually use Rust.
 My handle name is hatoo. I'm a blue coder at Atcoder and Codeforces, have good skills about algorithms.
 I solved the most number of problems with Rust in AtCoder.
-I prefer "marathon" style contests.
+I'm good at "marathon" style contests.
 I achieved good results in some marathon contests, you can see in Awards section.
 
 #### Competitive Programming Ratings
@@ -86,7 +87,7 @@ I achieved good results in some marathon contests, you can see in Awards section
   - Written in Python
 - RNN-hearthstone-card-generator-web
   - http://hatoo.github.io/RNN-hearthstone-card-generator-web/
-  - Generate a [Hearthstone](https://playhearthstone.com) card text by LSTM.
+  - Generate a [Hearthstone](https://playhearthstone.com) card text via LSTM in browser.
 - Blue Bomber
   - https://www.youtube.com/watch?v=elRqX9dSnaI
   - A game for Unreal Engine 4 petit contest 1 by [historia](http://historia.co.jp/)
