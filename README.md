@@ -1,7 +1,6 @@
 # Junya Sugita
 
 - Live: Kanagawa, Japan
-- Birth: 1991/10/29
 - Email: hato2000@gmail.com
 - GitHub: [https://github.com/hatoo](https://github.com/hatoo)
 - Qiita(Japanese Articles): [https://qiita.com/hatoo@github](https://qiita.com/hatoo@github)
