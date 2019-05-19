@@ -102,6 +102,10 @@ May. 2016 ~
 
 Develop and maintain Drupal sites.
 
+### [SoundHound inc.](https://www.soundhound.co.jp/)
+
+January. 2019 ~ 
+
 ## Awards
 
 - Codeforces Marathon Round 2
